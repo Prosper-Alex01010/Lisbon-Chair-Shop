@@ -23,6 +23,7 @@ GREY COLOR:#343a40;
 body {
   font-family: "Inter", sans-serif;
   color: #343a40;
+  border-bottom: 8px solid #087f5b;
 }
 
 .container {
@@ -65,7 +66,7 @@ h2 {
 
 .btn--big {
   font-size: 18px;
-  padding: 1.4rem 2.5rem;
+  padding: 1.2rem 2.5rem;
 }
 
 .btn--small {
@@ -120,6 +121,9 @@ img {
 
 /* TESTIMONIAL */
 .testimonial-section {
+  background-color: #087f5b;
+  color: #fff;
+  padding: 24px;
 }
 
 .testimonial-box {
